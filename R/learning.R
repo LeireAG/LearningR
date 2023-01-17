@@ -1,7 +1,13 @@
 # Here's an example of a conflict.
 10
 
-# R ticktock ---------------------------------------------------------------
+
+
+# When a conflict happens.
+10
+
+# R blahblah  ---------------------------------------------------------------
+
 
 
 weight_kilos <- 100
